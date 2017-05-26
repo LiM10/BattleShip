@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+c:\users\p501\documents\visual studio 2017\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
